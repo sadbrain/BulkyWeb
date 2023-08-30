@@ -1,0 +1,11 @@
+D:\WorkSpace\Bulky\Bulky.DataAccess\bin\Debug\net8.0\Bulky.DataAccess.deps.json
+D:\WorkSpace\Bulky\Bulky.DataAccess\bin\Debug\net8.0\Bulky.DataAccess.dll
+D:\WorkSpace\Bulky\Bulky.DataAccess\bin\Debug\net8.0\Bulky.DataAccess.pdb
+D:\WorkSpace\Bulky\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\Bulky\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.AssemblyInfoInputs.cache
+D:\WorkSpace\Bulky\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.AssemblyInfo.cs
+D:\WorkSpace\Bulky\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.csproj.CoreCompileInputs.cache
+D:\WorkSpace\Bulky\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.dll
+D:\WorkSpace\Bulky\Bulky.DataAccess\obj\Debug\net8.0\refint\Bulky.DataAccess.dll
+D:\WorkSpace\Bulky\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.pdb
+D:\WorkSpace\Bulky\Bulky.DataAccess\obj\Debug\net8.0\ref\Bulky.DataAccess.dll
